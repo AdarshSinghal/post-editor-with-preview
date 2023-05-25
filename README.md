@@ -36,3 +36,16 @@ the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=
 from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+This is how the ```<EditorWithPreview/>``` component looks like. You can turn off the intro using ```<EditorWithPreview showIntro={false} />```
+
+![image](https://github.com/AdarshSinghal/post-editor-with-preview/assets/6784265/6ed6539c-1bcd-476b-beb6-7af6ecbd77f6)
+
+## Components
+This folder contains reusable components.
+
+## TextField
+Unlike simple textfield, this textfield has battery indicator that shows how good the length is. As you type, the bar count decreases and color changes, ultimately it becomes red when you are out of characters.
+
+**Clone, Run and Explore more...**
+
