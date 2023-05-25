@@ -41,6 +41,14 @@ This is how the ```<EditorWithPreview/>``` component looks like. You can turn of
 
 ![image](https://github.com/AdarshSinghal/post-editor-with-preview/assets/6784265/6ed6539c-1bcd-476b-beb6-7af6ecbd77f6)
 
+```
+1 Article → n Sections
+1 Section → n Elements
+Either 1 Element → 1 Paragraph
+Or 1 Element → 1 List
+1 List → n Items
+```
+
 ## Components
 This folder contains reusable components.
 
