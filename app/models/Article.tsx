@@ -1,6 +1,6 @@
-import { Section } from "@/app/models/Section";
+import {Section} from "@/app/models/Section";
 
 export interface Article {
-  title: string;
-  sections: Section[];
+    title: string;
+    sections: Section[];
 }

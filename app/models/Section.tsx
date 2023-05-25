@@ -1,6 +1,6 @@
-import { SectionElement } from "@/app/models/SectionElement";
+import {SectionElement} from "@/app/models/SectionElement";
 
 export interface Section {
-  title: string;
-  elements: SectionElement[];
+    title: string;
+    elements: SectionElement[];
 }

@@ -1,4 +1,4 @@
 export interface SectionElement {
-  type: string;
-  data: any;
+    type: string;
+    data: any;
 }
