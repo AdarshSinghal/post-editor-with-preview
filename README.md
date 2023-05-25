@@ -47,5 +47,9 @@ This folder contains reusable components.
 ## TextField
 Unlike simple textfield, this textfield has battery indicator that shows how good the length is. As you type, the bar count decreases and color changes, ultimately it becomes red when you are out of characters.
 
+
+![image](https://github.com/AdarshSinghal/post-editor-with-preview/assets/6784265/7cb95f1b-fcb5-4da6-b9ce-5be55073e7e9)
+
+
 **Clone, Run and Explore more...**
 
