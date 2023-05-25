@@ -58,6 +58,12 @@ Unlike simple textfield, this textfield has battery indicator that shows how goo
 
 ![image](https://github.com/AdarshSinghal/post-editor-with-preview/assets/6784265/7cb95f1b-fcb5-4da6-b9ce-5be55073e7e9)
 
+## Requirement specification for better understandability
+
+![image](https://github.com/AdarshSinghal/post-editor-with-preview/assets/6784265/e6abbca3-39f8-47ca-b36c-58502cbcd961)
+![image](https://github.com/AdarshSinghal/post-editor-with-preview/assets/6784265/6c4a5c6f-799d-4f6d-baef-05941f4a50d2)
+![image](https://github.com/AdarshSinghal/post-editor-with-preview/assets/6784265/ffe4df89-86b0-486d-8cab-945f8cc0818f)
+
 
 **Clone, Run and Explore more...**
 
