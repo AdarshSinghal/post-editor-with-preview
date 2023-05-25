@@ -1,0 +1,47 @@
+.css-tkn350-MuiTabs-root {
+  min-height: 0 !important;
+}
+
+.css-13xfq8m-MuiTabPanel-root {
+  padding: 24px 0 0 0;
+}
+
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+  min-height: 0 !important;
+  min-width: 0 !important;
+  padding: 6px 16px;
+}
+
+@media only screen and (min-width: 768px) {
+  .css-tkn350-MuiTabs-root,
+  .css-1ujnqem-MuiTabs-root {
+    min-height: 0 !important;
+    padding-right: 100px;
+  }
+
+  .css-13xfq8m-MuiTabPanel-root {
+    padding: 24px 0 0 50px;
+  }
+
+  .css-1h9z7r5-MuiButtonBase-root-MuiTab-root {
+    min-height: 0 !important;
+    min-width: 0 !important;
+  }
+}
+
+#demo-customized-button {
+  background-color: #4f46e5; /*bg-indigo-600*/
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root+.MuiDivider-root{
+  margin: 0;
+}
+
+.css-1x0waax-MuiModal-root-MuiPopover-root-MuiMenu-root .MuiPaper-root .MuiMenu-list{
+  padding: 0;
+}
+
+.css-1174ya-MuiButtonBase-root-MuiIconButton-root{
+  padding: 5px 5px 0 5px ;
+  margin-right: 20px;
+}
